@@ -1,6 +1,42 @@
 # PHP Blog App – Task 3 (ApexPlanet Internship)
 
-This is a simple blog application built using **PHP** and **MySQL** as part of the ApexPlanet Internship.
+Task 3 – Advanced Features Implementation
+
+ApexPlanet Web Development Internship (PHP & MySQL)
+Author: Kasukurthi Prem Kumar
+Email: kasukurthiprem1835@gmail.com
+
+
+
+📖 Overview
+
+Task-3 focuses on enhancing the CRUD application by adding Search, Pagination, and overall UI improvements.
+This task aligns with the “Advanced Features Implementation” section in the ApexPlanet Internship.
+
+
+
+🎯 Objectives
+
+*Add Search functionality for filtering posts
+
+*Implement Pagination for better data handling
+
+*Improve the User Interface using CSS or Bootstrap
+
+*Enhance user experience and navigation
+
+
+
+🔍 Search Functionality
+
+Allows users to search posts by title or content
+
+Uses secure SQL queries
+
+Displays filtered results dynamically
+
+
+
 
 ## ✅ Features
 
