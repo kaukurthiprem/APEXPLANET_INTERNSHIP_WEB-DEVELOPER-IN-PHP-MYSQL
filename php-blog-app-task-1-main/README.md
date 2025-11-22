@@ -1,8 +1,11 @@
-# PHP Blog App
+🌐 ApexPlanet Internship Project
 
-This is a simple blog project using PHP and MySQL for the ApexPlanet Internship Task 1.
+👨‍💻 Developed by
+Name: Kasukurthi Prem Kumar
+Email: kasukurthiprem1835@gmail.com
 
-## Features
-- PHP server running with XAMPP
-- Git version control initialized
-- Ready for CRUD implementation in Task 2
+📖 Project Overview
+
+This repository contains all tasks completed during my ApexPlanet Internship, focused on real-world full-stack web development, security enhancements, cloud deployment, and backend functionalities.
+
+Each task is organized into separate folders with complete code, configuration files, and documentation. The project showcases practical implementation of core concepts such as authentication, API development, database operations, CRUD modules, and security improvements.
