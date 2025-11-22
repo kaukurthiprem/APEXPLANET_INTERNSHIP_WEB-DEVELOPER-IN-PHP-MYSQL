@@ -1,6 +1,6 @@
 # PHP Blog App – Task 3 (ApexPlanet Internship)
 
-Task 3 – Advanced Features Implementation
+##Task 3 – Advanced Features Implementation
 
 ApexPlanet Web Development Internship (PHP & MySQL)
 Author: Kasukurthi Prem Kumar
@@ -8,14 +8,14 @@ Email: kasukurthiprem1835@gmail.com
 
 
 
-📖 Overview
+##📖 Overview
 
 Task-3 focuses on enhancing the CRUD application by adding Search, Pagination, and overall UI improvements.
 This task aligns with the “Advanced Features Implementation” section in the ApexPlanet Internship.
 
 
 
-🎯 Objectives
+##🎯 Objectives
 
 *Add Search functionality for filtering posts
 
@@ -27,7 +27,7 @@ This task aligns with the “Advanced Features Implementation” section in the 
 
 
 
-🔍 Search Functionality
+##🔍 Search Functionality
 
 Allows users to search posts by title or content
 
