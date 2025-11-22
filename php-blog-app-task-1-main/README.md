@@ -4,8 +4,17 @@
 Name: Kasukurthi Prem Kumar
 Email: kasukurthiprem1835@gmail.com
 
-📖 Project Overview
+📖 Overview
 
-This repository contains all tasks completed during my ApexPlanet Internship, focused on real-world full-stack web development, security enhancements, cloud deployment, and backend functionalities.
+Task-1 focuses on setting up a complete development environment required for building PHP & MySQL web applications.
+You will install a local server, configure PHP tools, set up Git version control, and create your first project structure.
 
-Each task is organized into separate folders with complete code, configuration files, and documentation. The project showcases practical implementation of core concepts such as authentication, API development, database operations, CRUD modules, and security improvements.
+This prepares the foundation for all other tasks in the internship.
+
+🎯 Objectives
+
+Install and configure a local development environment for PHP & MySQL
+
+*Set up Git version control and GitHub repository
+
+*Create a basic project structure with initial commit
